@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">homework5_appDesign</string>
+    <string name="btn_log_in">Log in</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_back">back</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_next">Next</string>
+    <string name="sign_up_agreement">By signing up, you agree to Photo’s <u>Terms of Service</u> and
+        <u>Privacy Policy</u>.</string>
+    <string name="btn_sign_up">sign up</string>
+</resources>
